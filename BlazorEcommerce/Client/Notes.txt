@@ -1,0 +1,5 @@
+﻿Dotnet Blazor WebAssembly (https://github.com/patrickgod/BlazorEcommerce)
+	1.) When you create a new application you need to get/trust a new certificate for it.
+			a.) We can trust the dev certificate locally by running the following command on your terminal => [ dotnet dev-certs https --trust ]
+
+	2.) 
