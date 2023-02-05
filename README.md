@@ -1,1 +1,1 @@
-# BlazorEcommerce
+# Blazor Ecommerce
